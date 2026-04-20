@@ -300,7 +300,7 @@ export const ja: Translation = {
 
 	// ギャラリーページ
 	[Key.gallery]: "ギャラリー",
-	[Key.galleryDescription]: "人生の美しい瞬間を記録する",
+	[Key.galleryDescription]: "記憶ギャラリーに全てを記録する",
 	[Key.galleryPhotos]: "枚の写真",
 	[Key.galleryAlbums]: "冊のアルバム",
 	[Key.galleryNoAlbums]: "アルバムがありません",

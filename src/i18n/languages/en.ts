@@ -301,7 +301,7 @@ export const en: Translation = {
 
 	// Gallery Page
 	[Key.gallery]: "Gallery",
-	[Key.galleryDescription]: "Capturing beautiful moments in life",
+	[Key.galleryDescription]: "Pictures recorded in the Memory Gallery",
 	[Key.galleryPhotos]: "photos",
 	[Key.galleryAlbums]: "albums",
 	[Key.galleryNoAlbums]: "No albums yet",

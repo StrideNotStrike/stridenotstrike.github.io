@@ -294,7 +294,7 @@ export const zh_TW: Translation = {
 
 	// 相簿頁面
 	[Key.gallery]: "相簿",
-	[Key.galleryDescription]: "記錄生活中的美好瞬間",
+	[Key.galleryDescription]: "流光憶庭所記錄的痕跡",
 	[Key.galleryPhotos]: "張照片",
 	[Key.galleryAlbums]: "本相簿",
 	[Key.galleryNoAlbums]: "暫無相簿",
