@@ -26,7 +26,7 @@ export const friendsConfig: FriendLink[] = [
 		title: "清雨Tpor.wtf",
 		imgurl:
 			"https://xn--tpor-kp8i193r.wtf/1.jpg",
-		desc: "恶意销毁粉丝游戏账号事件 · 完整档案",
+		desc: "清雨 Tpor 毁号事件 · 完整档案",
 		siteurl: "https://xn--tpor-kp8i193r.wtf/",
 		tags: ["Blog"],
 		weight: 10, // 权重，数字越大排序越靠前
